@@ -130,7 +130,7 @@
     </linearGradient>
   </defs>
   <g id="Layer_1">
-    <image width="396" height="396" transform="translate(-97.6 -179)" xlink:href="climatescheme_correct_mov-1.png"/>
+    <image width="396" height="396" transform="translate(-97.6 -179)" xlink:href="https://raw.githubusercontent.com/cristinapita/non_co2/refs/heads/main/sun.png"/>
     <rect class="st15" x="-161" y="-17.2" width="1102" height="112.1" transform="translate(780 77.8) rotate(180)"/>
     <rect class="st13" x="-508.8" y="506.9" width="1102" height="88.2" transform="translate(593.2 508.8) rotate(90)"/>
     <image id="clouds1" width="667" height="73" transform="translate(185.4 590) scale(.4)" xlink:href="https://raw.githubusercontent.com/cristinapita/non_co2/refs/heads/main/cloudss3.png"/>
